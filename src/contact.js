@@ -64,7 +64,7 @@ function contact(){
 
 function createSubArea(contactArr, infoArea){
     contactArr.forEach(item => {
-        console.log(item)
+        // console.log(item)
         let subArea = document.createElement('div')
         subArea.classList.add('sub-area')
         subArea.classList.add('contact-card')

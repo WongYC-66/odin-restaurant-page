@@ -48,4 +48,4 @@ window.addEventListener('DOMContentLoaded', () => {
 
 
 //
-contact()
+home()
